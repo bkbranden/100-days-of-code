@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 20, 2020
+### Day 1: June 20, 2020
 
 **Today's Progress**: Created the Frontend and APIservice containers and linked them together using docker-compose. Created a basic proof of concept of being able to download npm packages by using React-D3-Tree. Started linking the frontend together and will handle the basic homepage.
 
