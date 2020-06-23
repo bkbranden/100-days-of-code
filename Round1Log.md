@@ -1,4 +1,12 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code, Round 1 - Log
+
+### Day 3: June 22, 2020
+
+**Today's Progress**: Today I started reverse engineering the tic-tac-toe React tutorial available [here](https://reactjs.org/tutorial/tutorial.html). I thought this would be a good project exercise to solidfy my React skills especially with Typescript as well as I am going to use this as a base when I set up my router and different parts of my website later. Later I envision having a games projects tab that takes the user to all of the games that I have worked on and made.
+
+**Thoughts:** I actually messed up the CSS modules paradigm that I mentioned in the last log as the file naming convention requires ".module" where you can import the styles as an object. Working with typescript interfaces for the proptypes and statetypes was something I had to brush up on again. Overall, I think I made significant progress and it was very fun!
+
+**Link to work:** [Current Commit](https://github.com/bkbranden/CrystariumTree/tree/807a32205a01e3da170b931ce723dfa77d21485e)
 
 ### Day 2: June 21, 2020
 
