@@ -1,5 +1,13 @@
 # 100 Days Of Code, Round 1 - Log
 
+### Day 5: June 24, 2020
+
+**Today's Progress**: Today I added the gameover logic to check if the game is over and also a conditional to prevent any further play when the game is over. Also added the "reset" functionality and "game-over" text!
+
+**Thoughts:** These features weren't the hardest to code up, but I could not think of the best way to check if the game is over other than hard-iterating through each row, each column, and each diagonal. Is there a better way to do this or is it not worth spending time thinking over?
+
+**Link to work:** [Current Commit](https://github.com/bkbranden/CrystariumTree/tree/43696a3040c663ac99b26f9ad66548aa32f0fc60)
+
 ### Day 4: June 23, 2020
 
 **Today's Progress**: Today, I added to logic of being able to click "X" and "O" on the tic tac toe board and adding the player 1's turn and player 2's turn. Also, I added the logic of putting in the text for displaying who's turn it was.
