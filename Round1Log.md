@@ -1,5 +1,13 @@
 # 100 Days Of Code, Round 1 - Log
 
+### Day 6: June 25, 2020
+
+**Today's Progress**: Today I added the draw logic to the game as well as keeping track of the different states throughout the game and then allowing for resetting back to a previous state. Also, updated some styles on the buttons and the board.
+
+**Thoughts:** The keeping track of the state logic actually had a small problem where I would arrays and matricies would be passed by reference when assigned to another variable so when a state was updated, it would override all of the previous states. The workaround was to create copies of the state everytime that I needed it. Also, styling proved to be very limiting. Trying to style having an element in the center with a column to the right of it proved impossible in flexbox. Also, trying to style bottom borders with elements with padding also was impossible to do.
+
+**Link to work:** [Current Commit](https://github.com/bkbranden/CrystariumTree/tree/2bf9c8159df2a5bcb60172687952cc28a4b5bb40)
+
 ### Day 5: June 24, 2020
 
 **Today's Progress**: Today I added the gameover logic to check if the game is over and also a conditional to prevent any further play when the game is over. Also added the "reset" functionality and "game-over" text!
