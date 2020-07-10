@@ -1,5 +1,13 @@
 # 100 Days Of Code, Round 1 - Log
 
+### Day 7: July 10, 2020
+
+**Today's Progress**: Started tackling adding more features into the frontend. Because I want the frontend architecture to be up to date and simple, I decided to utilize the React-Router for navigation as well as Redux for state management of trhings that exist throughout the whole app such as admin and login functionality. I integrated React Router, but right now I am writing the basics for the Redux integration. So far, I have only written the action types and creators, but am going to tackle the reducers and then the store so that I can hook it up with the React router
+
+**Thoughts:** Hooking up the React Router and the Redux was much easier this time around than before. One main problem that I ran into was how to best organize the code. Because there isn't any guides organizing was something that took some time for me to figure out how I best wanted it. Furthermore, because this time around I am utilizing Typescript, the type definitions are definitely something to get used to.
+
+**Link to work:** [Current Commit](https://github.com/bkbranden/CrystariumTree/tree/c99163c955e0683d773f35052223d9c92e83a809)
+
 ### Day 6: June 25, 2020
 
 **Today's Progress**: Today I added the draw logic to the game as well as keeping track of the different states throughout the game and then allowing for resetting back to a previous state. Also, updated some styles on the buttons and the board.
