@@ -1,5 +1,13 @@
 # 100 Days Of Code, Round 1 - Log
 
+### Day 8: July 13, 2020 
+
+**Today's Progress**: Today, switched it up to learn and practice more machine learning. I got a dataset from the UCI ML database. Using one of their datasets designed for classification, I classified the type of wine based on parameters utilizing the K-Nearest-Neighbors algorithm that I learned previously. Probably because the dataset was designed for classification, the results were very accurate with over 90% accuracy.
+
+**Thoughts:** This was super interesting because it was one of the first projects that I tried to utilize what I learned in ML without having to look at a guide or tutorial. This helped me understand what type of datasets and problems are solved with KNN as well as how to clean up datasets and convert them in a format that you need.
+
+**Link to work:** [DataSets](http://archive.ics.uci.edu/ml/datasets/Wine)
+
 ### Day 7: July 10, 2020 
 
 **Today's Progress**: Started tackling adding more features into the frontend. Because I want the frontend architecture to be up to date and simple, I decided to utilize the React-Router for navigation as well as Redux for state management of trhings that exist throughout the whole app such as admin and login functionality. I integrated React Router, but right now I am writing the basics for the Redux integration. So far, I have only written the action types and creators, but am going to tackle the reducers and then the store so that I can hook it up with the React router
