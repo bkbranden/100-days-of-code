@@ -1,6 +1,6 @@
 # 100 Days Of Code, Round 1 - Log
 
-### Day 7: July 10, 2020
+### Day 7: July 10, 2020 
 
 **Today's Progress**: Started tackling adding more features into the frontend. Because I want the frontend architecture to be up to date and simple, I decided to utilize the React-Router for navigation as well as Redux for state management of trhings that exist throughout the whole app such as admin and login functionality. I integrated React Router, but right now I am writing the basics for the Redux integration. So far, I have only written the action types and creators, but am going to tackle the reducers and then the store so that I can hook it up with the React router
 
