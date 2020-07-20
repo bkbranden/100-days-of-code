@@ -1,5 +1,11 @@
 # 100 Days Of Code, Round 1 - Log
 
+### Day 9: July 19, 2020 
+
+**Today's Progress**: Finished customizing the Slate docs template that I utilized to have a static-site generator to output my notes. I configured so that it will be directly portable to the syntax and way that I write my notes in markdown so that I don't have to change anything syntax or file related in my markdown files when I am taking notes without a server. Also, I got through several hours of competitive coding practice as well as understanding one of the Codeforces problems which was on maximizing the min and max weights given to k people out of n integers. Also, I got started on Project Euler. Currently, trying to figure out a good and time efficient way to personalize the coding practice I do and make real-world applications.
+
+**Thoughts:** This was not something that I planned to work on but I got distracted and had to make some progress on this since I think it will help me in the long run. Also, I am excited to grind on the competitive programming daily since I think it will be very useful to me in the long-run. I was thinking about a good way to personalize the problems that I solve and common patterns. Upon further thinking, it might be better to not find applications of a coding problem but rather dive deeper into the core algorithm and principles utilized within the algorithm as that is what translate to other problems most of the time.
+
 ### Day 8: July 13, 2020 
 
 **Today's Progress**: Today, switched it up to learn and practice more machine learning. I got a dataset from the UCI ML database. Using one of their datasets designed for classification, I classified the type of wine based on parameters utilizing the K-Nearest-Neighbors algorithm that I learned previously. Probably because the dataset was designed for classification, the results were very accurate with over 90% accuracy.
