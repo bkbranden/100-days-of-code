@@ -1,5 +1,13 @@
 # 100 Days Of Code, Round 1 - Log
 
+### Day 10: August 3, 2020 
+
+**Today's Progress**: I wanted to start on a mobile app on iOS and learn about Flutter. Decided to start a project on Flutter to create a productivity animation app that animates how the day is spent in a circular pie graph. Today, I learned how the widget system sort of works in Flutter, completed the infinite list tutorial, and figured out how to deploy a development app to my phone.
+
+**Thoughts:** This was super interesting as I did not really know what the deployment was like and how it worked. Flutter is interesting in its own right, but is very similar to React so it might not be too bad. The deployment is very interesting as Flutter seems to take of the configurations and I am curious how XCode handles things. 
+
+**Link to work:** [Repo](https://github.com/bkbranden/ProductivityAnimation/tree/bf75bcb1b6abe4e0d1de0f77d899a7c7c339714c)
+
 ### Day 9: July 19, 2020 
 
 **Today's Progress**: Finished customizing the Slate docs template that I utilized to have a static-site generator to output my notes. I configured so that it will be directly portable to the syntax and way that I write my notes in markdown so that I don't have to change anything syntax or file related in my markdown files when I am taking notes without a server. Also, I got through several hours of competitive coding practice as well as understanding one of the Codeforces problems which was on maximizing the min and max weights given to k people out of n integers. Also, I got started on Project Euler. Currently, trying to figure out a good and time efficient way to personalize the coding practice I do and make real-world applications.
