@@ -1,5 +1,15 @@
 # 100 Days Of Code, Round 1 - Log
 
+### Day 11: August 21, 2020 
+
+**Today's Progress**: Its been a while since I had just started work and was trying to get into the swing of things. I have switched up my schedule to fit in more on-hands experience rather than theoretical learning. Today I worked a lot on my new open source productivity animation app and got more deployment strategies with babel and bundling figured out and will have to add in webpack later. 
+Also, I tried abstracting out the express app's listen method to using node's http package with `createServer` Furthermore, I got the backend server hooked up to Firebase's firestore to store data information on the user.
+
+**Thoughts:** This is definitely something that I am not used to since most of the times when coding or learning, it has been on a tangible side but the deployment side of things seems like its less structured to learn. I might need to buy a book on it.
+
+**Link to work:** [Repo](https://github.com/bkbranden/ProductivityAnimation/tree/3e487aa67485c0be830398d2e77562360da7b763)
+
+
 ### Day 10: August 3, 2020 
 
 **Today's Progress**: I wanted to start on a mobile app on iOS and learn about Flutter. Decided to start a project on Flutter to create a productivity animation app that animates how the day is spent in a circular pie graph. Today, I learned how the widget system sort of works in Flutter, completed the infinite list tutorial, and figured out how to deploy a development app to my phone.
