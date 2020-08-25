@@ -1,5 +1,11 @@
 # 100 Days Of Code, Round 1 - Log
 
+### Day 12: August 24, 2020 
+
+**Today's Progress**: Today was a lot of learning about CI/CD software systems as well as learning about creating pipelines with Jenkins. I learned about what DevOps generally is as well as what typical CD pipelines look like and what stages it is made up of. Furthermore, I created some basic pipelines using Jenkinsfiles to learn how to use Jenkins.
+   
+**Thoughts:** This is something new to me entirely since I have never really focused on the DevOps side of things. I think it is super interesting however that there is a set paradigm to set up CI/CD pipelines for software systems and is the first time that I felt I was able to narrow down what goes into DevOps.
+
 ### Day 11: August 21, 2020 
 
 **Today's Progress**: Its been a while since I had just started work and was trying to get into the swing of things. I have switched up my schedule to fit in more on-hands experience rather than theoretical learning. Today I worked a lot on my new open source productivity animation app and got more deployment strategies with babel and bundling figured out and will have to add in webpack later. 
