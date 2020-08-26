@@ -1,5 +1,11 @@
 # 100 Days Of Code, Round 1 - Log
 
+### Day 13: August 25, 2020 
+
+**Today's Progress**: Today was learning about shell scripting as well as the difference between mac os and windows ntfs filesystems. I learned about best practices in keeping credentials within environment variables in Jenkinsfiles as well as how to shell script for different environments based on conditionals. Furthermore, I worked more on completing my desktop setup and worked on the differences of filesystems in mac os and windows as well as installing drivers for hardware. I also went through mounting iso files and external drives to set up windows 10 on my desktop.
+   
+**Thoughts:** Again this is the first time that things within shell scripting, DevOps, and building a pc started to make more sense to me as well as seeing the steps that are involved.
+
 ### Day 12: August 24, 2020 
 
 **Today's Progress**: Today was a lot of learning about CI/CD software systems as well as learning about creating pipelines with Jenkins. I learned about what DevOps generally is as well as what typical CD pipelines look like and what stages it is made up of. Furthermore, I created some basic pipelines using Jenkinsfiles to learn how to use Jenkins.
