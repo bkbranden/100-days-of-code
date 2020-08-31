@@ -1,5 +1,11 @@
 # 100 Days Of Code, Round 1 - Log
 
+### Day 14: August 30, 2020 
+
+**Today's Progress**: Today I finished routing up the API to work with Firestore and got it add new database items using a POST request and testing it out in Postman. Also, I was able to write up a deployment script to push the production files up to Glitch, but I am running into memory issues in Glitch so I might have to opt for creating a minified production version.
+   
+**Thoughts:** This wasn't too difficult in terms of thinking and problem solving, but was rather something that I just had to brute force to get done. However, I figured out and mapped some ways to learn better practices when completing something that I already know how to do... its open source!
+
 ### Day 13: August 25, 2020 
 
 **Today's Progress**: Today was learning about shell scripting as well as the difference between mac os and windows ntfs filesystems. I learned about best practices in keeping credentials within environment variables in Jenkinsfiles as well as how to shell script for different environments based on conditionals. Furthermore, I worked more on completing my desktop setup and worked on the differences of filesystems in mac os and windows as well as installing drivers for hardware. I also went through mounting iso files and external drives to set up windows 10 on my desktop.
